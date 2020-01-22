@@ -74,12 +74,42 @@
     
   ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
   
+  ## WHAT IS WEB APPLICATION ARCHITECTURE?
+
   ![Image of Scalable Archi]( https://github.com/reach2arunprakash/system-design-primer/blob/master/images/Web%20Archi.png)
   
   
+    ## COMPONENTS OF WEB APPLICATION ARCHITECTURE
+  
   ![Image of Scalable Archi](https://github.com/reach2arunprakash/system-design-primer/blob/master/images/intro-scalable-arch.png)
   
+  
+  Src :  https://www.digitalocean.com/community/tutorials/5-common-server-setups-for-your-web-application
+  
+  ## Details 
     
+    ### 1. Everything On One Server
+    
+      ![Image of Scalable Archi]( https://github.com/reach2arunprakash/system-design-primer/blob/master/001-Single%20Server.png )
+          
+    ### 2. Using a CDN
+    
+      ![Image of Scalable Archi]( https://github.com/reach2arunprakash/system-design-primer/blob/master/002%20-%20using-cdn.png )
+      
+    ### 3. Separate Database Server
+    
+      ![Image of Scalable Archi]( https://github.com/reach2arunprakash/system-design-primer/blob/master/003-u-separate_database.png )
+      
+    ### 4. Load Balancer (Reverse Proxy)
+    
+      ![Image of Scalable Archi]( https://github.com/reach2arunprakash/system-design-primer/blob/master/004-u-load_balancer.png )
+      
+    ### 5. Primary-replica Database Replication
+    
+      ![Image of Scalable Archi]( https://github.com/reach2arunprakash/system-design-primer/blob/master/005-u-primary_replica_database_replication.png )
+    
+    
+   
  ### Step 1: Review the scalability video lecture
 
 [Scalability Lecture at Harvard](https://www.youtube.com/watch?v=-W9F__D3oY4)
