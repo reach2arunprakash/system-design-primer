@@ -141,3 +141,13 @@ Another way to look at performance vs scalability:
 **Throughput** is the number of such actions or results per unit of time.
 
 Generally, you should aim for **maximal throughput** with **acceptable latency**.
+
+## Database
+
+
+  ![Image of Scalable Archi](https://github.com/reach2arunprakash/system-design-primer/blob/master/images/002%20-%20Sql%20vs%20NOSql%20Collection.png )  
+  
+  ![Image of Scalable Archi](https://github.com/reach2arunprakash/system-design-primer/blob/master/images/001%20-%20Sql%20vs%20NOSql.png )  
+
+  ![Image of Scalable Archi](https://github.com/reach2arunprakash/system-design-primer/blob/master/images/003-%20MySQL%20vs%20MongoDB.png )  
+
