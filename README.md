@@ -48,7 +48,7 @@
     * [Remote procedure call (RPC)](#remote-procedure-call-rpc)
     * [Representational state transfer (REST)](#representational-state-transfer-rest)
     * [GraphQL](#graphql)
- * [Company engineering blog links ](#Company engineering blog links )
+ * [Company engineering blog links](#Company engineering blog links )
  
     
     
@@ -153,10 +153,11 @@ Generally, you should aim for **maximal throughput** with **acceptable latency**
 [GraphQL - arun prakash ](  https://www.youtube.com/watch?v=LO2tQtfGO2s)
 
 ## Asynchronism
+
   ![Message queues](https://github.com/reach2arunprakash/system-design-primer/blob/master/images/message_queue.png )  
   
 
-## Company engineering blog links 
+## Company engineering blog links
 
 courtesy [checkcheckzz](https://github.com/checkcheckzz/system-design-interview#toc)
 
