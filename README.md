@@ -1,7 +1,6 @@
 # system-design-primer
 
-* [How Web Works](#How-Web-Works)
-    [How Web Works!](https://github.com/reach2arunprakash/system-design-primer/tree/master/how-web-works) 
+* [How Web Works!](https://github.com/reach2arunprakash/system-design-primer/tree/master/how-web-works) 
 
 * [System design topics: start here](#system-design-topics-start-here)
     * [Step 1: Review the scalability video lecture](#step-1-review-the-scalability-video-lecture)
