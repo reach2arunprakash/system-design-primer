@@ -9,14 +9,6 @@
     * [CAP theorem](#cap-theorem)
         * [CP - consistency and partition tolerance](#cp---consistency-and-partition-tolerance)
         * [AP - availability and partition tolerance](#ap---availability-and-partition-tolerance)
-* [Consistency patterns](#consistency-patterns)
-    * [Weak consistency](#weak-consistency)
-    * [Eventual consistency](#eventual-consistency)
-    * [Strong consistency](#strong-consistency)
-* [Availability patterns](#availability-patterns)
-    * [Fail-over](#fail-over)
-    * [Replication](#replication)
-    * [Availability in numbers](#availability-in-numbers)
 * [Domain name system](#domain-name-system)
 * [Content delivery network](#content-delivery-network)
 * [Load balancer](#load-balancer)
@@ -128,12 +120,27 @@ Another way to look at performance vs scalability:
 
 Generally, you should aim for **maximal throughput** with **acceptable latency**.
 
+## CAP theorem
+
+   ![CAP](https://github.com/reach2arunprakash/system-design-primer/blob/master/images/001-CAP.png )  
+   
+   
+   ![CAP](https://github.com/reach2arunprakash/system-design-primer/blob/master/images/002-CAP.jfif )  
+   
+
 ## Database
 
+   ### ACID
+   
+   ![ACID](https://github.com/reach2arunprakash/system-design-primer/blob/master/images/001%20-ACID.png)  
 
-  ![Image of Scalable Archi](https://github.com/reach2arunprakash/system-design-primer/blob/master/images/002%20-%20Sql%20vs%20NOSql%20Collection.png )  
+   ![ACID and CAP](https://github.com/reach2arunprakash/system-design-primer/blob/master/images/ACID%20and%20CAP.jfif)  
+
+   ### NoSQL
+
+![SQL and NOSQL structure](https://github.com/reach2arunprakash/system-design-primer/blob/master/images/002%20-%20Sql%20vs%20NOSql%20Collection.png )  
   
-  ![Image of Scalable Archi](https://github.com/reach2arunprakash/system-design-primer/blob/master/images/001%20-%20Sql%20vs%20NOSql.png )  
+  ![NoSQL](https://github.com/reach2arunprakash/system-design-primer/blob/master/images/001%20-%20Sql%20vs%20NOSql.png )  
 
   ![Image of Scalable Archi](https://github.com/reach2arunprakash/system-design-primer/blob/master/images/003-%20MySQL%20vs%20MongoDB.png )  
   
@@ -141,4 +148,8 @@ Generally, you should aim for **maximal throughput** with **acceptable latency**
  ## GraphQL 
   
 [GraphQL - arun prakash ](  https://www.youtube.com/watch?v=LO2tQtfGO2s)
+
+## Asynchronism
+  ![Message queues](https://github.com/reach2arunprakash/system-design-primer/blob/master/images/message_queue.png )  
+  
 
