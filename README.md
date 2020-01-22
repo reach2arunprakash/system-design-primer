@@ -107,6 +107,11 @@
     ### 5. Primary-replica Database Replication
     
      ![Image of Scalable Archi]( https://github.com/reach2arunprakash/system-design-primer/blob/master/005-u-primary_replica_database_replication.png )
+    ### 6. Cache
+    
+     ![Image of Scalable Archi]( https://github.com/reach2arunprakash/system-design-primer/blob/master/006-cache.jfif )  
+     
+     ![Image of Scalable Archi](https://github.com/reach2arunprakash/system-design-primer/blob/master/007-redis%20cache.png )  
     
     
    
