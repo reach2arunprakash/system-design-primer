@@ -69,6 +69,9 @@
     * [Transmission control protocol (TCP)](#transmission-control-protocol-tcp)
     * [User datagram protocol (UDP)](#user-datagram-protocol-udp)
     * [Remote procedure call (RPC)](#remote-procedure-call-rpc)
+    * [Representational state transfer (REST)](#representational-state-transfer-rest)
+    
+    
     
     
     
@@ -76,4 +79,3 @@
  ### Step 1: Review the scalability video lecture
 
 [Scalability Lecture at Harvard](https://www.youtube.com/watch?v=-W9F__D3oY4)
-    * [Representational state transfer (REST)](#representational-state-transfer-rest)
