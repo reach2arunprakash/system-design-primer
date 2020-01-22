@@ -19,13 +19,7 @@
     * [Availability in numbers](#availability-in-numbers)
 * [Domain name system](#domain-name-system)
 * [Content delivery network](#content-delivery-network)
-    * [Push CDNs](#push-cdns)
-    * [Pull CDNs](#pull-cdns)
 * [Load balancer](#load-balancer)
-    * [Active-passive](#active-passive)
-    * [Active-active](#active-active)
-    * [Layer 4 load balancing](#layer-4-load-balancing)
-    * [Layer 7 load balancing](#layer-7-load-balancing)
     * [Horizontal scaling](#horizontal-scaling)
 * [Reverse proxy (web server)](#reverse-proxy-web-server)
     * [Load balancer vs reverse proxy](#load-balancer-vs-reverse-proxy)
@@ -33,19 +27,15 @@
     * [Microservices](#microservices)
     * [Service discovery](#service-discovery)
 * [Database](#database)
+    * [SQL or NoSQL](#sql-or-nosql)
     * [Relational database management system (RDBMS)](#relational-database-management-system-rdbms)
-        * [Master-slave replication](#master-slave-replication)
-        * [Master-master replication](#master-master-replication)
-        * [Federation](#federation)
         * [Sharding](#sharding)
         * [Denormalization](#denormalization)
-        * [SQL tuning](#sql-tuning)
     * [NoSQL](#nosql)
         * [Key-value store](#key-value-store)
         * [Document store](#document-store)
         * [Wide column store](#wide-column-store)
         * [Graph Database](#graph-database)
-    * [SQL or NoSQL](#sql-or-nosql)
 * [Cache](#cache)
     * [Client caching](#client-caching)
     * [CDN caching](#cdn-caching)
@@ -54,11 +44,6 @@
     * [Application caching](#application-caching)
     * [Caching at the database query level](#caching-at-the-database-query-level)
     * [Caching at the object level](#caching-at-the-object-level)
-    * [When to update the cache](#when-to-update-the-cache)
-        * [Cache-aside](#cache-aside)
-        * [Write-through](#write-through)
-        * [Write-behind (write-back)](#write-behind-write-back)
-        * [Refresh-ahead](#refresh-ahead)
 * [Asynchronism](#asynchronism)
     * [Message queues](#message-queues)
     * [Task queues](#task-queues)
@@ -68,6 +53,7 @@
     * [User datagram protocol (UDP)](#user-datagram-protocol-udp)
     * [Remote procedure call (RPC)](#remote-procedure-call-rpc)
     * [Representational state transfer (REST)](#representational-state-transfer-rest)
+    * [GraphQL](#graphql)
     
     
     
@@ -150,4 +136,9 @@ Generally, you should aim for **maximal throughput** with **acceptable latency**
   ![Image of Scalable Archi](https://github.com/reach2arunprakash/system-design-primer/blob/master/images/001%20-%20Sql%20vs%20NOSql.png )  
 
   ![Image of Scalable Archi](https://github.com/reach2arunprakash/system-design-primer/blob/master/images/003-%20MySQL%20vs%20MongoDB.png )  
+  
+  
+ ## GraphQL 
+  
+[GraphQL - arun prakash ](  https://www.youtube.com/watch?v=LO2tQtfGO2s)
 
