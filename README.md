@@ -89,24 +89,24 @@
   ## Details 
     
     ### 1. Everything On One Server
-    
-      ![Image of Scalable Archi]( https://github.com/reach2arunprakash/system-design-primer/blob/master/001-Single%20Server.png )
+       
+     ![Image of Scalable Archi]( https://github.com/reach2arunprakash/system-design-primer/blob/master/001-Single%20Server.png )
           
     ### 2. Using a CDN
     
-      ![Image of Scalable Archi]( https://github.com/reach2arunprakash/system-design-primer/blob/master/002%20-%20using-cdn.png )
+     ![Image of Scalable Archi]( https://github.com/reach2arunprakash/system-design-primer/blob/master/002%20-%20using-cdn.png )
       
     ### 3. Separate Database Server
     
-      ![Image of Scalable Archi]( https://github.com/reach2arunprakash/system-design-primer/blob/master/003-u-separate_database.png )
+     ![Image of Scalable Archi]( https://github.com/reach2arunprakash/system-design-primer/blob/master/003-u-separate_database.png )
       
     ### 4. Load Balancer (Reverse Proxy)
     
-      ![Image of Scalable Archi]( https://github.com/reach2arunprakash/system-design-primer/blob/master/004-u-load_balancer.png )
+     ![Image of Scalable Archi]( https://github.com/reach2arunprakash/system-design-primer/blob/master/004-u-load_balancer.png )
       
     ### 5. Primary-replica Database Replication
     
-      ![Image of Scalable Archi]( https://github.com/reach2arunprakash/system-design-primer/blob/master/005-u-primary_replica_database_replication.png )
+     ![Image of Scalable Archi]( https://github.com/reach2arunprakash/system-design-primer/blob/master/005-u-primary_replica_database_replication.png )
     
     
    
