@@ -1,6 +1,6 @@
 # system-design-primer
 
-* [How Web Works](#How Web Works)
+* [How Web Works](#How-Web-Works)
     [How Web Works!](https://github.com/reach2arunprakash/system-design-primer/tree/master/how-web-works) 
 
 * [System design topics: start here](#system-design-topics-start-here)
@@ -48,7 +48,7 @@
     * [Remote procedure call (RPC)](#remote-procedure-call-rpc)
     * [Representational state transfer (REST)](#representational-state-transfer-rest)
     * [GraphQL](#graphql)
- * [Company engineering blog links](#Company engineering blog links )
+ * [Company engineering blog links](#Company-engineering-blog-links)
  
     
     
