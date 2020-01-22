@@ -73,7 +73,12 @@
     
     
   ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-  ![Image of Yaktocat](https://github.com/reach2arunprakash/system-design-primer/blob/master/images/intro-scalable-arch.png)
+  
+  ![Image of Scalable Archi]( https://github.com/reach2arunprakash/system-design-primer/blob/master/images/Web%20Archi.png)
+  
+  
+  ![Image of Scalable Archi](https://github.com/reach2arunprakash/system-design-primer/blob/master/images/intro-scalable-arch.png)
+  
     
  ### Step 1: Review the scalability video lecture
 
