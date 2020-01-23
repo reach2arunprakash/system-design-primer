@@ -228,7 +228,7 @@ Depending on where you are interviewing, go through the company blog. VERY USEFU
   ![SOLID](https://github.com/reach2arunprakash/system-design-primer/blob/master/images/SOLID%202.png )  
 
 
-### SRP: The Single Responsibility Principle
+### SRP: The Single Responsibility Principle  (Just because you can, doesn’t mean you should.)
 
     Your classes should have one single responsibility and no more.
         Take validation of an e-mail address as an example. If you place your validation logic directly in the code that creates user accounts, you will not be able to reuse it in a different context. Having validation logic separated into a distinct class would let you reuse it in multiple places and have only a single implementation.
@@ -240,8 +240,11 @@ Depending on where you are interviewing, go through the company blog. VERY USEFU
         MVC frameworks. You have the ability to extend the MVC components by adding new routes, intercepting requests, returning different responses, and overriding default behaviors.
 
 ### LSP: The Liskov Substitution Principle
+        Functions that use pointers or references to base classes must be able to use objects of derived classes without knowing it.
+
 
 ### ISP: The Interface-Segregation Principle
+     No client should be forced to depend on methods it does not use
 
 ### DIP: The Dependency-Inversion Principle
 
@@ -250,7 +253,7 @@ Depending on where you are interviewing, go through the company blog. VERY USEFU
         IOC is heavily used by several frameworks such as Spring, Rails and even Java EE containers. Instead of you being in control of creating instances of your objects and invoking methods, you become the creator of plugins or extensions to the framework. The IOC framework will look at the web request and figure out which classes should be instantiated and which components should be delegated to. This means your classes do not have to know when their instances are created, who is using them, or how their dependencies are put together.
 
 
-DRY: Don't repeat yourself
+## DRY: Don't repeat yourself
 
     There are a number of reasons developers repeated waste time:
         Following an inefficient process
