@@ -74,9 +74,12 @@
           
    ### 2. Content delivery network
     
+   #### Content delivery network
+    
    ![Using a CDN]( https://github.com/reach2arunprakash/system-design-primer/blob/master/002%20-%20using-cdn.png )
+    
+   ![Using a CDN]( https://github.com/reach2arunprakash/system-design-primer/blob/master/images/OverView%20CDN.png )
       
-
    ![Using a CDN]( https://github.com/reach2arunprakash/system-design-primer/blob/master/images/cdn.png )
    
    
