@@ -170,6 +170,11 @@ Generally, you should aim for **maximal throughput** with **acceptable latency**
 
   ![Image of Scalable Archi](https://github.com/reach2arunprakash/system-design-primer/blob/master/images/003-%20MySQL%20vs%20MongoDB.png )  
   
+  
+## Transmission control protocol (TCP)
+
+  ![Image of Scalable Archi](https://github.com/reach2arunprakash/system-design-primer/blob/master/images/TCP%20vs%20UDP.jfif )  
+  
 
   
  ## GraphQL 
