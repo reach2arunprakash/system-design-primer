@@ -74,7 +74,7 @@
           
    ### 2. Using a CDN
     
-   ![Image of Scalable Archi]( https://github.com/reach2arunprakash/system-design-primer/blob/master/002%20-%20using-cdn.png )
+   ![Using a CND]( https://github.com/reach2arunprakash/system-design-primer/blob/master/002%20-%20using-cdn.png )
       
    ### 3. Separate Database Server
     
@@ -129,6 +129,9 @@ Generally, you should aim for **maximal throughput** with **acceptable latency**
    
    ![CAP](https://github.com/reach2arunprakash/system-design-primer/blob/master/images/002-CAP.jfif )  
    
+## Domain name system 
+
+   ![DNS](https://github.com/reach2arunprakash/system-design-primer/blob/master/images/DNS.jfif)  
 
 ## Database
 
@@ -146,6 +149,7 @@ Generally, you should aim for **maximal throughput** with **acceptable latency**
 
   ![Image of Scalable Archi](https://github.com/reach2arunprakash/system-design-primer/blob/master/images/003-%20MySQL%20vs%20MongoDB.png )  
   
+
   
  ## GraphQL 
   
