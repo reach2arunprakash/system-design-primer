@@ -72,10 +72,23 @@
        
    ![Image of Scalable Archi]( https://github.com/reach2arunprakash/system-design-primer/blob/master/001-Single%20Server.png )
           
-   ### 2. Using a CDN
+   ### 2. Content delivery network
     
-   ![Using a CND]( https://github.com/reach2arunprakash/system-design-primer/blob/master/002%20-%20using-cdn.png )
+   ![Using a CDN]( https://github.com/reach2arunprakash/system-design-primer/blob/master/002%20-%20using-cdn.png )
       
+
+   ![Using a CDN]( https://github.com/reach2arunprakash/system-design-primer/blob/master/images/cdn.png )
+   
+   
+   ![Using a CDN]( https://github.com/reach2arunprakash/system-design-primer/blob/master/images/Before%20After%20CDN.png )
+
+   
+   #### Use Cases:
+   
+   ![Using a CDN]( https://github.com/reach2arunprakash/system-design-primer/blob/master/images/When%20to%20use%20CDN.jfif )
+
+
+
    ### 3. Separate Database Server
     
    ![Image of Scalable Archi]( https://github.com/reach2arunprakash/system-design-primer/blob/master/003-u-separate_database.png )
