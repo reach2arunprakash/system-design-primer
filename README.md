@@ -50,7 +50,8 @@
  * [Company engineering blog links](#Company-engineering-blog-links)
  * [System Design Interview Questions](#System-Design-Interview-Questions)
 
-                       # Welcome
+   
+   # Welcome
                        
   ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
   
