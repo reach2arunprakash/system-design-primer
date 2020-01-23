@@ -175,7 +175,14 @@ Generally, you should aim for **maximal throughput** with **acceptable latency**
 
   ![Image of Scalable Archi](https://github.com/reach2arunprakash/system-design-primer/blob/master/images/TCP%20vs%20UDP.jfif )  
   
-
+## Representational state transfer (REST)
+  
+  ![Image of Scalable Archi](https://github.com/reach2arunprakash/system-design-primer/blob/master/images/REST%20Constraits.png )  
+  
+  
+  
+    
+  ![Image of Scalable Archi](https://github.com/reach2arunprakash/system-design-primer/blob/master/images/REST.jfif )  
   
  ## GraphQL 
   
