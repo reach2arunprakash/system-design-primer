@@ -1,5 +1,5 @@
 
-* [1: Arrays and Strings](#1:-Arrays-and-Strings)
+* [1: Arrays and Strings](#Arrays-and-Strings)
 * [Performance vs scalability](#performance-vs-scalability)
 * [Performance vs scalability](#performance-vs-scalability)
 * [Performance vs scalability](#performance-vs-scalability)
