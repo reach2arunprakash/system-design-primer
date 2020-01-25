@@ -8,11 +8,8 @@
 * [Object-Oriented Design](#Object-Oriented-Design)
 * [Recursion and Dynamic Programming](#Recursion-and-Dynamic-Programming)
 * [System Design and Scalability](#System-Design-and-Scalability)
-* [Performance vs scalability](#performance-vs-scalability)
 * [Testing](#Testing)
 * [C and C++](#C-and-C++)
-
-
 
 
 
