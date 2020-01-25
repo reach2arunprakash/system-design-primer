@@ -1,14 +1,18 @@
 
 * [Arrays and Strings](#Arrays-and-Strings)
+* [Linked Lists](#Linked-Lists)
+* [Stacks and Queues](#Stacks-and-Queues)
+* [Trees and Graph](#Trees-and-Graph)
+* [Bit Manipulation](#Bit-Manipulation)
+* [Math and Logic Puzzles](#Math-and-Logic-Puzzles)
+* [Object-Oriented Design](#Object-Oriented-Design)
+* [Recursion and Dynamic Programming](#Recursion-and-Dynamic-Programming)
+* [System Design and Scalability](#System-Design-and-Scalability)
 * [Performance vs scalability](#performance-vs-scalability)
-* [Performance vs scalability](#performance-vs-scalability)
-* [Performance vs scalability](#performance-vs-scalability)
-* [Performance vs scalability](#performance-vs-scalability)
-* [Performance vs scalability](#performance-vs-scalability)
-* [Performance vs scalability](#performance-vs-scalability)
-* [Performance vs scalability](#performance-vs-scalability)
-* [Performance vs scalability](#performance-vs-scalability)
-* [Performance vs scalability](#performance-vs-scalability)
+* [Testing](#Testing)
+* [C and C++](#C-and-C++)
+
+
 
 
 
@@ -25,7 +29,7 @@
 9.  **String Rotation**: Assume you have a method isSubstring which checks if one word is a substring of another. Given two strings, S1 and S2, write code to check if S2 is a rotation of S1 using only one call to isSubstring (e.g., "waterbottle" is a rotation of "erbottlewat").
 
 
-#2: Linked Lists
+# Linked Lists
 
 1.  **Remove Dups**: Write code to remove duplicates from an unsorted linked list.
     How would you solve this problem if a temporary buffer is not allowed?
@@ -37,7 +41,7 @@
 7.  **Intersection**: Given two (singly) linked lists, determine if the two lists intersect. Return the intersecting node. Note that the intersection is defined based on reference, not value. That is, if the kth node of the first linked list is the exact same node (by reference) as the jth node of the second linked list, then they are intersecting.
 8.  **Loop Detection**: Given a circular linked list, implement an algorithm that returns the node at the beginning of the loop. DEFINITION Circular linked list: A (corrupt) linked list in which a node's next pointer points to an earlier node, so as to make a loop in the linked list.
 
-#3: Stacks and Queues
+# Stacks and Queues
 
 1.  **Three in One**: Describe how you could use a single array to implement three stacks.
 2.  **Stack Min**: How would you design a stack which, in addition to push and pop, has a function min which returns the minimum element? Push, pop and min should all operate in O(1) time.
@@ -46,7 +50,7 @@
 5.  **Sort Stack**: Write a program to sort a stack such that the smallest items are on the top. You can use an additional temporary stack, but you may not copy the elements into any other data structure (such as an array). The stack supports the following operations: push, pop, peek, and isEmpty.
 6.  **Animal Shelter**: An animal shelter, which holds only dogs and cats, operates on a strictly"first in, first out" basis. People must adopt either the "oldest" (based on arrival time) of all animals at the shelter, or they can select whether they would prefer a dog or a cat (and will receive the oldest animal of that type). They cannot select which specific animal they would like. Create the data structures to maintain this system and implement operations such as enqueue, dequeueAny, dequeueDog, and dequeueCat. You may use the built-in Linked List data structure.
 
-#4: Trees and Graph
+# Trees and Graph
 
 1.  **Route Between Nodes**: Given a directed graph, design an algorithm to find out whether there is a route between two nodes.
 2.  **Minimal Tree**: Given a sorted (increasing order) array with unique integer elements, write an algorithm to create a binary search tree with minimal height.
@@ -66,7 +70,7 @@
 11.  **Random Node**: You are implementing a binary tree class from scratch which, in addition to insert, find, and delete, has a method getRandomNode() which returns a random node from the tree. All nodes should be equally likely to be chosen. Design and implement an algorithm for getRandomNode, and explain how you would implement the rest of the methods.
 12.  **Paths with Sum**: You are given a binary tree in which each node contains an integer value (which might be positive or negative). Design an algorithm to count the number of paths that sum to a given value. The path does not need to start or end at the root or a leaf, but it must go downwards (traveling only from parent nodes to child nodes).
 
-#5: Bit Manipulation
+# Bit Manipulation
 1.  **Insertion**: You are given two 32-bit numbers, N and M, and two bit positions, i and j. Write a method to insert M into N such that M starts at bit j and ends at bit i. You can assume that the bits j through i have enough space to fit all of M. That is, if M = 10011, you can assume that there are at least 5 bits between j and i. You would not, for example, have j = 3 and i = 2, because M could not fully fit between bit 3 and bit 2.
     EXAMPLE
     Input: N = 10000000000, M = 10011, i = 2, j = 6
@@ -87,7 +91,7 @@
     The method signature should look something like:
     drawLine( byte[] screen, int width, int x1, int x2, int y )
     
-#6: Math and Logic Puzzles
+# Math and Logic Puzzles
 
 1.  **The Heavy Pill**: You have 20 bottles of pills. 19 bottles have 1.0 gram pills, but one has pills of weight 1.1 grams. Given a scale that provides an exact measurement, how would you find the heavy bottle? You can only use the scale once.
 2.  **Basketball**: You have a basketball hoop and someone says that you can play one of two games.
@@ -106,7 +110,7 @@
     FOLLOW UP
 Write code to simulate your approach.
 
-#7: Object-Oriented Design
+# Object-Oriented Design
 
 1. **Deck of Cards**: Design the data structures for a generic deck of cards. Explain how you would subclass the data structures to implement blackjack.
 2. **Call Center**: Imagine you have a call center with three levels of employees: respondent, manager, and director. An incoming telephone call must be first allocated to a respondent who is free. If the respondent can't handle the call, he or she must escalate the call to a manager. If the manager is not free or not able to handle it, then the call should be escalated to a director. Design the classes and data structures for this problem. Implement a method dispatchCall() which assigns a call to the first available employee.
@@ -121,7 +125,7 @@ Write code to simulate your approach.
 11. **File System**: Explain the data structures and algorithms that you would use to design an in-memory file system. Illustrate with an example in code where possible.
 12. **Hash Table**: Design and implement a hash table which uses chaining (linked lists) to handle collisions.
 
-#8: Recursion and Dynamic Programming
+# Recursion and Dynamic Programming
 
 1. **Triple Step**: A child is running up a staircase with n steps and can hop either 1 step, 2 steps, or 3 steps at a time. Implement a method to count how many possible ways the child can run up the stairs.
 2. **Robot in a Grid**: Imagine a robot sitting on the upper left corner of grid with r rows and c columns. The robot can only move in two directions, right and down, but certain cells are "off limits" such that the robot cannot step on them. Design an algorithm to find a path for the robot from the top left to the bottom right.
@@ -150,7 +154,7 @@ Write code to simulate your approach.
     countEval( "1^0|0|1", false )  -> 2
     countEval( "0 & 0 & 0 & 1^1|0", true ) -> 10
 
-#9: System Design and Scalability
+# System Design and Scalability
 
 1. **Stock Data**: Imagine you are building some sort of service that will be called by up to 1,000 client applications to get simple end-of-day stock price information (open, close, high, low). You may assume that you already have the data, and you can store it in any format you wish. How would you design the client-facing service that provides the information to client applications? You are responsible for the development, rollout, and ongoing monitoring and maintenance of the feed. Describe the different methods you considered and why you would recommend your approach. Your service can use any technologies you wish, and can distribute the information to the client applications in any mechanism you choose.
 2. **Social Network**: How would you design the data structures for a very large social network like Facebook or Linkedln ? Describe how you would design an algorithm to show the shortest path between two people (e.g., Me -> Bob -> Susan -> Jason -> You).
@@ -161,7 +165,7 @@ Write code to simulate your approach.
 7. **Personal Financial Manager**: Explain how you would design a personal financial manager (like Mint.com). This system would connect to your bank accounts, analyze your spending habits, and make recommendations.
 8. **Pastebin**: Design a system like Pastebin, where a user can enter a piece of text and get a randomly generated URL to access it.
 
-#11: Testing
+# Testing
 
 1. **Mistake:** Find the mistake(s) in the following code:
 ```c++
@@ -174,7 +178,7 @@ Write code to simulate your approach.
 4. **No Test Tools:** How would you load test a webpage without using any test tools?
 5. **Test an ATM:** How would you test an ATM in a distributed banking system?
 
-#12: C and C++
+# C and C++
 
 1.  **Last K Lines**: Write a method to print the last K lines of an input file using C++.
 2.  **Reverse String**: Implement a function void reverse( char* str) in C or C++ which reverses a null-terminated string.
