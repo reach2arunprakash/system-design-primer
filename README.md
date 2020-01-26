@@ -2,10 +2,10 @@
 
 * [How Web Works!](https://github.com/reach2arunprakash/system-design-primer/tree/master/how-web-works) 
 * [How Google works PhD paper - !](http://infolab.stanford.edu/~backrub/google.html)
-* [System design topics: start here](#system-design-topics-start-here)
-    * [Step 1: Review the scalability video lecture](#step-1-review-the-scalability-video-lecture)
-* [Availability vs consistency](#availability-vs-consistency)
 * [Web Architecture](#Web-Architecture)
+* [System design topics: start here](#system-design-topics-start-here)
+    * [Review the scalability video lectures](#Review-the-scalability-video-lectures)  
+* [Availability vs consistency](#availability-vs-consistency)
 * [Latency vs throughput](#latency-vs-throughput)
 * [Availability vs consistency](#availability-vs-consistency)
     * [CAP theorem](#cap-theorem)
@@ -118,9 +118,11 @@
     
     
    
- ### Step 1: Review the scalability video lecture
+ ### Review the scalability video lectures
 
 [Scalability Lecture at Harvard](https://www.youtube.com/watch?v=-W9F__D3oY4)
+[Scalability for first 10M users](https://www.youtube.com/watch?v=w95murBkYmU)
+
 
 
 ## Performance vs scalability
