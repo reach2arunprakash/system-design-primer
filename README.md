@@ -4,7 +4,7 @@
 * [How Google works PhD paper - !](http://infolab.stanford.edu/~backrub/google.html)
 * [Web Architecture](#Web-Architecture)
 * [System design topics: start here](#system-design-topics-start-here)
-    * [Review the scalability video lectures](#Review-the-scalability-video-lectures)  
+    * [Scalability video Series](#Scalability-video-Series)  
 * [Availability vs consistency](#availability-vs-consistency)
 * [Latency vs throughput](#latency-vs-throughput)
 * [Availability vs consistency](#availability-vs-consistency)
@@ -118,9 +118,10 @@
     
     
    
- ### Review the scalability video lectures
+ ### Scalability video Series
 
 [Scalability Lecture at Harvard](https://www.youtube.com/watch?v=-W9F__D3oY4)
+
 [Scalability for first 10M users](https://www.youtube.com/watch?v=w95murBkYmU)
 
 
