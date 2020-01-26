@@ -296,9 +296,6 @@ A curated list of System Design interview questions for SDE-1 (Experienced),SDE-
 
 Targeted companies: Amazon, Google, Facebook and other biggies.
 
-Hope it helps you to prepare for your upcoming interviews!
-Questions
-
     Design commenting system
     Design subscription based sports website which can display scores, game status, history for any games.
     Design Netflix => search, video serving, authentication, encryption, dns lookup,caching strategy,serving multi quality video etc
@@ -361,7 +358,7 @@ Questions
     Design a kind of kindle fire application where we can subscribe news channel and read the news from all publishers as a digital format
     Design a realtime Video chat like Google Duo
     Design News paper & Magazine subscription system
-    Design a system like Hackerrank/Codechef/Topcoder
+    Design a system like GUVI/Leetcode/Hackerrank/Codechef/Topcoder
     Design a concurrent Hashmap
     Design an ATM Machine system which can support massive amount of transactions
     Design Airport Baggage system
