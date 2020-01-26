@@ -63,7 +63,7 @@
   
   ## Web Architecture
 
-  ![Web Architecture]( https://github.com/reach2arunprakash/system-design-primer/blob/master/images/Web%20Archi.png)
+  ![Web Architecture]( https://github.com/reach2arunprakash/system-design-primer/blob/master/images/3%20tire%20architecture.png )
   
   
     ## COMPONENTS OF WEB APPLICATION ARCHITECTURE
