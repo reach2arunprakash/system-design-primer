@@ -117,7 +117,8 @@
    ![Image of Scalable Archi](https://github.com/reach2arunprakash/system-design-primer/blob/master/007-redis%20cache.png )  
     
     
-   
+ ## System design topics: start here
+ 
  ### Scalability video Series
 
 [Scalability Lecture at Harvard](https://www.youtube.com/watch?v=-W9F__D3oY4)
