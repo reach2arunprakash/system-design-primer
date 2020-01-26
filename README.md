@@ -4,7 +4,8 @@
 * [How Google works PhD paper - !](http://infolab.stanford.edu/~backrub/google.html)
 * [System design topics: start here](#system-design-topics-start-here)
     * [Step 1: Review the scalability video lecture](#step-1-review-the-scalability-video-lecture)
-* [Performance vs scalability](#performance-vs-scalability)
+* [Availability vs consistency](#availability-vs-consistency)
+* [Web Architecture](#Web-Architecture)
 * [Latency vs throughput](#latency-vs-throughput)
 * [Availability vs consistency](#availability-vs-consistency)
     * [CAP theorem](#cap-theorem)
@@ -60,9 +61,9 @@
   
   
   
-  ## WHAT IS WEB APPLICATION ARCHITECTURE?
+  ## Web Architecture
 
-  ![Image of Scalable Archi]( https://github.com/reach2arunprakash/system-design-primer/blob/master/images/Web%20Archi.png)
+  ![Web Architecture]( https://github.com/reach2arunprakash/system-design-primer/blob/master/images/Web%20Archi.png)
   
   
     ## COMPONENTS OF WEB APPLICATION ARCHITECTURE
