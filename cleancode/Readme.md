@@ -2403,6 +2403,9 @@ const actions = function() {
 | [PHP Standards Recommendations](http://www.php-fig.org/psr/)| http://www.php-fig.org/psr/|
 | [Extended Coding Style Guide](https://github.com/php-fig/fig-standards/blob/master/proposed/extended-coding-style-guide.md) | https://github.com/php-fig/fig-standards/blob/master/proposed/extended-coding-style-guide.md|
 
+
+**[⬆ back to top](#table-of-contents)**
+
 ## NodeJs
 ----
 
@@ -2421,6 +2424,8 @@ const actions = function() {
 | [Clean Code NodeJs : Execute Asynchronous Tasks in Series](https://blog.cloudboost.io/execute-asynchronous-tasks-in-series-942b74697f9c)| https://blog.cloudboost.io/execute-asynchronous-tasks-in-series-942b74697f9c| 
 
 
+**[⬆ back to top](#table-of-contents)**
+
 ## Java
 ----
 
@@ -2435,6 +2440,8 @@ const actions = function() {
 | [Java Code Style The Final Decision](http://www.codeaffine.com/2014/04/28/java-code-style-the-final-decision/) | http://www.codeaffine.com/2014/04/28/java-code-style-the-final-decision/             |
 | [Clean Code from the Trenches](https://www.javacodegeeks.com/2017/05/clean-code-trenches.html)                 | https://www.javacodegeeks.com/2017/05/clean-code-trenches.html                       |
 | [11 Mistakes Java Developers make when Using Exceptions](https://nobugsproject.com/tag/clean-code/)            | https://nobugsproject.com/tag/clean-code/                                            |
+
+**[⬆ back to top](#table-of-contents)**
 
 ## C\#
 ---
@@ -2452,6 +2459,9 @@ const actions = function() {
 | [SOLID C\# Code: Smaller Methods == Clean Code?](http://rlacovara.blogspot.com.ng/2009/07/solid-c-code-smaller-methods-cleaner.html)                               | http://rlacovara.blogspot.com.ng/2009/07/solid-c-code-smaller-methods-cleaner.html                        |
 | [Coding rules for clean and robust C\# code](http://not-at-school.blogspot.com.ng/2011/03/coding-rules-for-clean-and-robust-c.html)                                | http://not-at-school.blogspot.com.ng/2011/03/coding-rules-for-clean-and-robust-c.html                     |
 | [How to Write Clean Code in C\# (Less With The Mess](https://www.freelancer.com/community/articles/how-to-write-clean-code-in-c-less-with-the-mess))               | https://www.freelancer.com/community/articles/how-to-write-clean-code-in-c-less-with-the-mess             |
+
+
+**[⬆ back to top](#table-of-contents)**
 
 ## JavaScript
 ----------
@@ -2472,6 +2482,9 @@ const actions = function() {
 | [How functional programming helps me write clean code](https://praveer09.github.io/technology/2016/08/05/how-functional-programming-helps-me-write-clean-code/) | https://praveer09.github.io/technology/2016/08/05/how-functional-programming-helps-me-write-clean-code/ |
 | [Clean Code](http://www.letscodejavascript.com/v3/episodes/live/182)                                                                                            | http://www.letscodejavascript.com/v3/episodes/live/182                                                  |
 
+
+**[⬆ back to top](#table-of-contents)**
+
 ## Ruby
 -----
 
@@ -2490,7 +2503,11 @@ const actions = function() {
 | [Using Services to Keep Your Rails Controllers Clean and DRY](https://www.engineyard.com/blog/keeping-your-rails-controllers-dry-with-services) | https://www.engineyard.com/blog/keeping-your-rails-controllers-dry-with-services |
 | [Rails Clean Architecture](https://github.com/reedlaw/rails-clean-architecture) | https://github.com/reedlaw/rails-clean-architecture |
 | [7 Patterns to Refactor Fat ActiveRecord Models](https://codeclimate.com/blog/7-ways-to-decompose-fat-activerecord-models/) | https://codeclimate.com/blog/7-ways-to-decompose-fat-activerecord-models/ |
- 
+
+
+**[⬆ back to top](#table-of-contents)**
+
+
 ## Python
 ------
 
@@ -2510,6 +2527,7 @@ const actions = function() {
 | [Making Clean Code a Part of Your Build Process (And More!)](https://www.caktusgroup.com/blog/2015/08/15/making-clean-code-part-your-build-process/) | https://www.caktusgroup.com/blog/2015/08/15/making-clean-code-part-your-build-process/|
 | [Learn to Program: Crafting Quality Code](https://www.coursera.org/learn/program-code) | https://www.coursera.org/learn/program-code|
 
+**[⬆ back to top](#table-of-contents)**
 
 ## Books
 -----
