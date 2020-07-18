@@ -200,6 +200,34 @@ Generally, you should aim for **maximal throughput** with **acceptable latency**
   ![Message queues](https://github.com/reach2arunprakash/system-design-primer/blob/master/images/message_queue.png )  
   
 
+## Childish Curiosity 
+
+How did FB started at first? How much it costed them?
+
+https://techcrunch.com/2012/10/20/facebooks-first-server-cost-85month/
+
+FB: Breaking Ground on Our First Custom Data Center
+
+https://www.facebook.com/notes/262655797130
+
+What are the minimum hardware requirements to run a server at my home?
+How do you calculate server costs per user for a social networking type platform where storage for each user would max out at 2gb a month/500mb a day?
+What server size do I need for 30M users?
+	How many active users a day you have?
+	Are the users are normally active during a certain time of the day or will you have peaks in specific dates?
+	How much CPU and RAM each user will be taking?
+	And how much growth your current load has?
+	Whats the bandwith Cost?
+	What are the Activites a normal user will do?
+		Are they watching Videos?
+		Uploading photos/files?
+		Doing computation?
+		Just create txt (blog)?
+	Where are your users located geographically?
+	Where do you log their activity?
+
+
+
 ## Company engineering blog links
 
 courtesy [checkcheckzz](https://github.com/checkcheckzz/system-design-interview#toc)
