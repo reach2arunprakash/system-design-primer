@@ -475,6 +475,12 @@ The boxes are divided into stacks (called stacking contexts). In each stack the 
 
 ## Trivia
 
+
+### Flow of web
+
+  ![Flow of web]( https://github.com/reach2arunprakash/system-design-primer/blob/master/webflow.jpeg )
+
+
 ### The birth of the web
 
 Tim Berners-Lee, a British scientist at CERN, invented the World Wide Web (WWW) in 1989. The web was originally conceived and developed to meet the demand for automatic information-sharing between scientists in universities and institutes around the world.
