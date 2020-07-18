@@ -142,6 +142,24 @@ Another way to look at performance vs scalability:
 * [A word on scalability](http://www.allthingsdistributed.com/2006/03/a_word_on_scalability.html)
 * [Scalability, availability, stability, patterns](http://www.slideshare.net/jboner/scalability-availability-stability-patterns/)
 
+
+* [Four Distributed Systems Architectural Patterns by Tim Berglund](https://www.youtube.com/watch?v=tpspO9K28PM)
+
+* [Twitter's GCP Architecture for Its Petabyte-Scale Data Storage in GCS (Cloud Next '19)](https://www.youtube.com/watch?v=rBNFwdVDlyo)
+
+* [Building Software at Google Scale: Bazel](https://www.youtube.com/watch?v=6GCDfoAOKIY)
+
+* [Scaling Slack - The Good, the Unexpected, and the Road Ahead](https://www.youtube.com/watch?v=_M-oHxknfnI)
+
+
+* [The Evolution of Reddit.com's Architecture](https://www.youtube.com/watch?v=nUcO7n4hek4)
+
+* [Scaling Instagram Infrastructure](https://www.youtube.com/watch?v=hnpzNAPiC0E&t=3s)
+
+* [Scaling Push Messaging for Millions of Devices @Netflix](https://www.youtube.com/watch?v=6w6E_B55p0E)
+
+
+
 ## Latency vs throughput
 
 **Latency** is the time to perform some action or to produce some result.
